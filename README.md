@@ -1,6 +1,5 @@
 ## Olá, eu sou o Henrique Santos, estudante de Análise e Desenvolvimento de Sistemas, apaixonado por programação e tecnologia!
 Atualmente, estou imerso no aprendizado de linguagens e ferramentas que moldam o futuro da TI. Busco constantemente expandir meus conhecimentos, aprimorar minhas habilidades e aplicar a teoria em projetos práticos.
-##
 <div style="display: inline_block"><br>
   <img align="center" alt="Henrique-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Henrique-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
